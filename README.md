@@ -1,2 +1,2 @@
 # RDP
-technical document showing how to use RDP on Windows.
+technical document showing how to use remote desktop protocol on Windows.
